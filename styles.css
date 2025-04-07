@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(208, 200, 251);
+}
+h1 {
+    color: #ce2802;
+}
+p {
+    color: blue;
+}
+
+p {
+    color: #0a7c3a;
+}
+a {
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    color: red;
+}
+/*
+a:visited {
+    color: rgb(82, 80, 80);
+}
+*/
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
